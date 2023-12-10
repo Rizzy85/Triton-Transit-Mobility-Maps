@@ -22,7 +22,7 @@ At Triton Transit, we use OSM to develop accessible and efficient ADA cart trans
 
 For those new to OpenStreetMap, we recommend watching the following tutorial on YouTube. This tutorial provides a comprehensive overview of how to use OpenStreetMap effectively:
 
-[Link to OpenStreetMap Tutorial on YouTube](#)
+[Link to OpenStreetMap Tutorial on YouTube](#https://youtu.be/MChE1jFThGw?feature=shared)
 
 This tutorial covers basic navigation, map editing, and other useful features of OpenStreetMap that are relevant to our project.
 
