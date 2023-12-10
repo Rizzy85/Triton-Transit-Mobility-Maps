@@ -26,6 +26,9 @@ For those new to OpenStreetMap, we recommend watching the following tutorial on 
 
 This tutorial covers basic navigation, map editing, and other useful features of OpenStreetMap that are relevant to our project.
 
+Website with Step-by-Step instructions
+[https://learnosm.org/en/]
+
 
 ## Repository Guidelines
 
