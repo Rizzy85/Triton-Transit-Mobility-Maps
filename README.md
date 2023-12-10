@@ -1,6 +1,6 @@
 # Triton Transit OpenStreetMap Integration for UC San Diego
 
-Welcome to the Triton Transit project's GitHub repository! This project is dedicated to enhancing mobility at UC San Diego, particularly for ADA cart transportation, using OpenStreetMap. Here, we provide detailed guidance on how we use OpenStreetMap, including how we download, edit, and implement these maps for campus transportation needs.
+Welcome to the Triton Transit Mobility Maps GitHub repository! This project is dedicated to enhancing mobility at UC San Diego, particularly for ADA cart transportation, using OpenStreetMap. Here, we provide detailed guidance on how we use OpenStreetMap, including how we download, edit, and implement these maps for campus transportation needs.
 
 ## About OpenStreetMap
 
