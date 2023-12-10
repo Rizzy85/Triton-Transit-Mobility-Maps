@@ -17,6 +17,15 @@ At Triton Transit, we use OSM to develop accessible and efficient ADA cart trans
 - **Tools and Software:** Listing the tools used for map editing.
 - **Challenges and Solutions:** Discussing any obstacles encountered and how we overcame them.
 
+## OpenStreetMap Tutorial
+
+For those new to OpenStreetMap, we recommend watching the following tutorial on YouTube. This tutorial provides a comprehensive overview of how to use OpenStreetMap effectively:
+
+[Link to OpenStreetMap Tutorial on YouTube](#)
+
+This tutorial covers basic navigation, map editing, and other useful features of OpenStreetMap that are relevant to our project.
+
+
 ## Repository Guidelines
 
 This part of the README is designed to help new contributors understand how to interact with our repository effectively.
