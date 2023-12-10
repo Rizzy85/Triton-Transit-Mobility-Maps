@@ -12,7 +12,8 @@ At Triton Transit, we use OSM to develop accessible and efficient ADA cart trans
 
 #### Downloading and Editing OSM for UC San Diego
 
-- **Data Acquisition:** Steps for acquiring raw OSM data focusing on UC San Diego's campus.
+- **Data Acquisition:**
+- You will have to access OpenStreetMap by logging in with the Triton Transit Mobility account. 
 - **Editing Process:** How we edit the maps to enhance ADA accessibility.
 - **Tools and Software:** Listing the tools used for map editing.
 - **Challenges and Solutions:** Discussing any obstacles encountered and how we overcame them.
